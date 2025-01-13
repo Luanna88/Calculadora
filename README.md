@@ -50,3 +50,5 @@ Quem tá vivendo no modo insane pode tentar desenvolver o método de bhaskara. O
     - deveDividirCorretamenteQuandoNumerosForemInteiros
     - deveMultiplicarCorretamenteQuandoNumerosForemInteiros
     - deveDividirCorretamenteQuandoNumerosPossuemPontosFlutuantes
+
+OBS: APLICAÇÃO CRIADA USANDO O JDK 8, E JUNIT 4.
